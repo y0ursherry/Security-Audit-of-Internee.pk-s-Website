@@ -1,5 +1,5 @@
 # Security-Audit-of-Internee.pk-s-Website
-# Task 5:  Web Security Audit & Penetration Testing Report
+# Task 6:  Web Security Audit & Penetration Testing Report
 
 This repository contains a security audit report and automated vulnerability testing script for web applications (referencing OWASP Top 10 vulnerabilities like SQL Injection, Reflected XSS, and missing Security Headers). Conducted as part of my Cybersecurity Internship at Internee.pk.
 
